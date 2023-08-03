@@ -16,7 +16,7 @@ This is a solution to the [Interactive rating component solution challenge on Fr
 
 ### Links
 
-- Solution URL: [https://github.com/aravindhan7/product-preview]
+- Solution URL: [https://github.com/aravindhan7/Interactive-rating-component]
 - Live Site URL: [https://aravindhan7.github.io/product-preview/]
 
 
